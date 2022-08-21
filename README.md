@@ -1,6 +1,8 @@
 # Proyecto-Sharks-Adri
 En este repositorio se irán añadiendo los archivos del proyecto de limpieza del DataFrame "Sharks"
+
 Leemos el archivo
+
 Exploramos el archivo. Observamos tipos de variables, nulos, cantidad de registros...
 Corregimos los nombres de las columnas (espacios, carácteres especiales...)
 Eliminamos duplicados (19441 duplicados)
