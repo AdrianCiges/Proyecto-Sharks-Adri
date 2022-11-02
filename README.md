@@ -1,5 +1,5 @@
 #  SHARKS DATA BASE 🦈 <br />
-En este repositorio se encuentran los archivos utilizados y creados para el proyecto de limpieza de la base de datos de "Sharks" de la semana 2 del bootcamp de análisis de datos de IronHack (Madrid).<br />
+En este repositorio se encuentran los archivos utilizados y creados para el proyecto de limpieza de la base de datos de "Global Shark Attack" de la semana 2 del bootcamp de análisis de datos de IronHack (Madrid).<br />
 URL: https://www.kaggle.com/datasets/teajay/global-shark-attacks
 
 ## Objetivo
