@@ -39,7 +39,7 @@ URL: https://www.kaggle.com/datasets/teajay/global-shark-attacks
 👧 Ataques por Edad: Top -> Jóvenes y peso relativo Niñas y Ancianas vs Hombres.<br />
 🦈 Ataques por Especie: Top -> Tiburón Blanco.<br />
 💀 Letalidad por Especie: Top -> Tiburón Blanco.<br />
-🏄 Ataques por Actividad: Top -> Surfeo.<br />
+🏄 Ataques por Actividad: Top -> Surf.<br />
 🏊 Letalidad por Actividad: Top -> Nado.<br />
 🗺️ Ataques por País: Top -> EEUU.<br />
 📈 Letalidad por País: Top -> Australia.
