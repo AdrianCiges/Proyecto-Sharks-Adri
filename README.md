@@ -1,27 +1,19 @@
-# Proyecto-Sharks-Adri
-En este repositorio se irán añadiendo los archivos del proyecto de limpieza del DataFrame "Sharks"
+# Proyecto-Sharks-Adri 🦈 <br />
+## 👀 Exploración
+• Importamos y leemos el archivo.<br />
+• Convertimos en dataframe.<br />
+• Observamos tipos de variables, nulos, cantidad de registros, valores extraños o inconsistentes, etc.
 
---------------------------------------------------------------------------------------------------
-
-Leemos el archivo
-
-Exploramos el archivo. Observamos tipos de variables, nulos, cantidad de registros...
-
-Corregimos los nombres de las columnas (espacios, carácteres especiales...)
-
-Eliminamos duplicados (19441 duplicados)
-
-Eliminamos filas con muchos nulos (solo 10 filas)
-
-Corregimos valores nulos (observamos nulos por columna. Todos los valores "object" por "unknown")
-
-Convertimos todos los valores a MAYÚSCULAS para evitar problemas.
-
-Quitamos espacios iniciales y finales de todos los valores.
-
-Seleccionamos columnas (variables) de interés (col_vip).
-
-Creamos subset con esas columnas (¿duplicados? Solo 1, pero eliminamos)
+## 🔧 Correcciones iniciales
+• Corregimos los nombres de las columnas (espacios, carácteres especiales...)<br />
+• Eliminamos duplicados (19441 duplicados)<br />
+• Eliminamos filas con muchos nulos (drop 10 filas)<br />
+• Corregimos valores nulos (observamos nulos por columna)<br />
+• Corregimos los valores "object" por "unknown")<br />
+• Convertimos todos los valores a MAYÚSCULAS para evitar problemas.<br />
+• Quitamos espacios iniciales y finales de todos los valores.<br />
+• Seleccionamos columnas (variables) de interés (col_vip).<br />
+• Creamos subset con esas columnas (¿duplicados? Solo 1, pero eliminamos)
 
 Limpiamos las columnas importantes (Case_number [Fecha*], Type, Country, Area, Location, Activity, Sex, Age, Fatal(y/n), Species).
 
