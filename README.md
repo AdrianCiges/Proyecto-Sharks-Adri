@@ -43,3 +43,14 @@ URL: https://www.kaggle.com/datasets/teajay/global-shark-attacks
 🏊 Letalidad por Actividad: Top -> Nado.<br />
 🗺️ Ataques por País: Top -> EEUU.<br />
 📈 Letalidad por País: Top -> Australia.
+
+## Links & Resources 💻
+• https://www.kaggle.com/teajay/global-shark-attacks <br />
+• https://numpy.org/doc/1.18/ <br />
+• https://pandas.pydata.org/ <br />
+• https://docs.python.org/3/library/functions.html <br />
+• https://plotly.com/python/ <br />
+• https://matplotlib.org/ <br />
+• https://seaborn.pydata.org/ <br />
+• https://pandas.pydata.org/docs/ <br />
+• https://towardsdatascience.com/beware-of-storytelling-with-data-1710fea554b0?gi=537e0c10d89e
