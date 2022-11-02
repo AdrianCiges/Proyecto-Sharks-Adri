@@ -44,7 +44,7 @@ URL: https://www.kaggle.com/datasets/teajay/global-shark-attacks
 🗺️ Ataques por País: Top -> EEUU.<br />
 📈 Letalidad por País: Top -> Australia.
 
-## Links & Resources 💻
+## Links & Recursos 💻
 • https://www.kaggle.com/teajay/global-shark-attacks <br />
 • https://numpy.org/doc/1.18/ <br />
 • https://pandas.pydata.org/ <br />
