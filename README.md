@@ -34,9 +34,9 @@ URL: https://www.kaggle.com/datasets/teajay/global-shark-attacks
 🗑️ Eliminamos datos anteriores al año 1900 por inconsistencia del dato (316 filas).<br />
 ⤴️ Exportamos a excel y analizamos.<br />
 
-## Análisis
+## Análisis 📊
 🚻 Ataques por Sexo: 88/12 % (H/M).<br />
-📈 Ataques por Edad: Top -> Jóvenes y peso relativo Niñas y Ancianas vs Hombres.<br />
+👧 Ataques por Edad: Top -> Jóvenes y peso relativo Niñas y Ancianas vs Hombres.<br />
 🦈 Ataques por Especie: Top -> Tiburón Blanco.<br />
 💀 Letalidad por Especie: Top -> Tiburón Blanco.<br />
 🏄 Ataques por Actividad: Top -> Surfeo.<br />
